@@ -1,6 +1,7 @@
 import './App.css';
-import requests from './request';
+import requests from './requests';
 import Row from './Row';
+import React from 'react';
 
 function App() {
   return (
